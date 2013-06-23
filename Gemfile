@@ -3,3 +3,6 @@
 source 'http://rubygems.org'
 
 gem "middleman", "~>3.0.14"
+gem 'compass_twitter_bootstrap'
+gem "middleman-livereload"
+
