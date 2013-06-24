@@ -1,4 +1,13 @@
+page 'faq.html'
+
+set :css_dir, 'stylesheets'
+set :js_dir, 'javascripts'
+set :images_dir, 'images'
+
+activate :directory_indexes
 activate :livereload
+
+
 ###
 # Compass
 ###

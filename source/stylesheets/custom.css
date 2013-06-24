@@ -1,9 +1,28 @@
-/*------------------------------------------------------------------
+.rated-user, .rated-user:link, .rated-user:visited, .rated-user:hover, .rated-user:active {
+  text-decoration: none !important;
+  font-weight: bold;
+}
 
-[Custom Stylesheet]
+.user-red {
+  color: red !important;
+}
 
+.user-orange {
+  color: #FF8C00 !important;
+}
 
-Last change:	03/25/2013
-Assigned to:	You
+.user-violet {
+  color: #A0A !important;
+}
 
--------------------------------------------------------------------*/
+.user-blue {
+  color: blue !important;
+}
+
+.user-green {
+  color: green !important;
+}
+
+.user-gray {
+  color: gray !important;
+}
